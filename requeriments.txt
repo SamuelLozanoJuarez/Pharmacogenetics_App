@@ -1,0 +1,6 @@
+fpdf
+streamlit
+pandas
+base64
+json
+requests
