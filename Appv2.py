@@ -4,7 +4,7 @@
 
 import streamlit as st
 import pandas as pd
-import fpdf
+import FPDF
 from fpdf import FPDF
 import base64
 
