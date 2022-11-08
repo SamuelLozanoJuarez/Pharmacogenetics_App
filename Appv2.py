@@ -4,9 +4,9 @@
 
 import streamlit as st
 import pandas as pd
-import FPDF
-from fpdf import FPDF
 import base64
+import fdpf
+from fpdf import FPDF
 
 #==================================================================================================================================
 #CONFIGURACIÓN DE LA PÁGINA
