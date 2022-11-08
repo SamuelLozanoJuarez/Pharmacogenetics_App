@@ -1,6 +1,6 @@
-fpdf
-streamlit
-pandas
+fpdf==1.7.2
+streamlit==1.14.0
+pandas==1.4.2
 base64
-json
-requests
+json==2.0.9
+requests==2.27.1
